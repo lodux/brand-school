@@ -1,0 +1,12 @@
+.articolo{
+    margin: 10px;
+    padding: 8px;
+    border: 1px solid rgb(43, 41, 41);
+    .details{
+        display: flex;
+        justify-content: space-around;
+        span{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    }
+}
